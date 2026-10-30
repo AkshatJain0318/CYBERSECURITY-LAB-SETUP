@@ -43,4 +43,4 @@ This additional project reflects my independent learning and practical explorati
 **Akshat Jain**
 
 - GitHub: AkshatJain0318  https://github.com/AkshatJain0318
-- LinkedIn: www.linkedin.com/in/akshat-jain-b296a1362
+- LinkedIn: https://www.linkedin.com/in/akshat-jain-b296a1362
